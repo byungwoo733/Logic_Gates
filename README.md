@@ -1,2 +1,2 @@
 # Logic_Gates
-Logic Gates Components
+Chisel3 Logic Gates Components
