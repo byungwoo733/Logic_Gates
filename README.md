@@ -1,5 +1,5 @@
 # Logic_Gates
-Chisel3(Scala) Logic Gates Components
+Chisel3(Scala) Logic Gates Components for RTL Design
 
 Chisel 3 wiki
 
