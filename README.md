@@ -1,6 +1,8 @@
 # Logic_Gates
 Chisel3(Scala) Logic Gates Components for RTL Design
 
+This Features will be one Eclipse RCP Base IDE Development.
+
 Chisel 3 wiki
 
 https://github.com/chipsalliance/chisel3/wiki
