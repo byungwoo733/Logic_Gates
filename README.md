@@ -1,2 +1,2 @@
 # Logic_Gates
-Chisel3 Logic Gates Components
+Chisel3(Scala) Logic Gates Components
