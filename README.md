@@ -8,3 +8,10 @@ https://github.com/chipsalliance/chisel3/wiki
 Chisel 3 ScalaDOC
 
 https://www.chisel-lang.org/api/latest/chisel3/index.html
+
+================================
+
+# Builtin Operators
+
+https://github.com/chipsalliance/chisel3/wiki/Builtin-Operators#list-of-operators
+
