@@ -11,6 +11,12 @@ Chisel 3 ScalaDOC
 
 https://www.chisel-lang.org/api/latest/chisel3/index.html
 
+[Documents]
+
+IEEE Standard Verilog® Hardware Description Language
+
+https://inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf
+
 ================================
 
 # Builtin Operators
